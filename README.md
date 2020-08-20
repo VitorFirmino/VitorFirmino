@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-/in/vitorfirmino-blue?logo=linkedin&style=for-the-badge&labelColor=ffffff&logoColor=black)](https://www.linkedin.com/in/vitorfirmino)
 
-### ✨ & nbsp; Seeking knowledge all the time  
+### ✨ Seeking knowledge all the time  
 
 ## Knowledge
 
