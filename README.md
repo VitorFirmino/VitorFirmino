@@ -4,7 +4,7 @@
 
 # Hi, I'm V I T O R 👋
 
-[![LinkedIn](https://img.shields.io/badge/-/in/vitorfirmino-blue?logo=linkedin&style=for-the-badge&labelColor=ffffff&logoColor=black)](https://www.linkedin.com/in/vitorfirmino)
+[![LinkedIn](https://img.shields.io/badge/-/in/vitorfirmino-purple?logo=linkedin&style=for-the-badge&labelColor=ffffff&logoColor=black)](https://www.linkedin.com/in/vitorfirmino)
 
 ### ✨ Seeking knowledge all the time  
 
